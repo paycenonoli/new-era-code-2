@@ -17,3 +17,4 @@ Introduce git stash.
 
 Added ssh key to remote repo
 Used http also
+Why we commit before push
