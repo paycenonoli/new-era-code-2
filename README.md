@@ -14,3 +14,6 @@ Added a branch dev.
 #Please do not make any changes to the master branch
 
 Introduce git stash.
+
+Added ssh key to remote repo
+Used http also
