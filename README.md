@@ -23,3 +23,5 @@ Introduction to githooks
 
 Intoduction to SSO
 Renamed hook file
+
+Added pre-commit check:
