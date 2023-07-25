@@ -26,4 +26,4 @@ Renamed hook file
 
 Added pre-commit check:
 Added pre-commit because I had to.
-This is a merge conflict
+Creating a merge conflict - I want us to understand merge conflict
