@@ -19,7 +19,7 @@ Added ssh key to remote repo
 Used http also
 Why we commit before push
 
-Introduction to githooks
+Introduction to git-hooks
 
 Intoduction to SSO
 Renamed hook file
