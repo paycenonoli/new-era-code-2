@@ -25,4 +25,4 @@ Intoduction to SSO
 Renamed hook file
 
 Added pre-commit check:
-Removed pre-commit
+Added pre-commit because I had to.
